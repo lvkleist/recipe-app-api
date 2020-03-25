@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="25be1b85-d94a-428a-ae65-71562e650d14" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/app/flake8" beforeDir="false" afterPath="$PROJECT_DIR$/app/.flake8" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/core/tests/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/core/tests/test_models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/app/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/app/settings.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +23,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -35,7 +39,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1584907028950</updated>
-      <workItem from="1584907031094" duration="1803000" />
+      <workItem from="1584907031094" duration="2543000" />
+      <workItem from="1585001172151" duration="2032000" />
     </task>
     <servers />
   </component>
@@ -47,5 +52,9 @@
       <screen x="0" y="23" width="1440" height="816" />
     </state>
     <state x="895" y="182" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.816@0.23.1440.816" timestamp="1584951932821" />
+    <state x="662" y="193" key="com.intellij.ide.util.TipDialog" timestamp="1585165948372">
+      <screen x="0" y="23" width="1440" height="814" />
+    </state>
+    <state x="662" y="193" key="com.intellij.ide.util.TipDialog/0.23.1440.814@0.23.1440.814" timestamp="1585165948372" />
   </component>
 </project>
